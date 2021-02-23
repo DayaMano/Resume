@@ -1,0 +1,106 @@
+#title {
+    /* background-color: #ff4c68; */
+    background-color: #1c1c1c;
+    color: white;
+}
+
+#education {
+    text-align: center;
+}
+
+#horizontal-list li {
+    list-style: none;
+    display: inline;
+}
+
+#socials {
+    text-align: center;
+}
+
+body {
+    font-family: "Montserrat";
+    font-weight: normal;
+    line-height: 2;
+}
+
+h1 {
+    font-family: "montserrat";
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+h3 {
+    padding: 0% 3% 2%;
+    font-family: "montserrat";
+    text-align: center;
+    color: #1C6E8C;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    color: #e65f5c;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+i {
+    color: #1C6E8C;
+}
+
+i:hover {
+    color: #e65f5c;
+    cursor: pointer;
+}
+
+.eachSection {
+    padding: 2% 8%;
+    background-color: #ccdbdc;
+}
+
+.table-heading {
+    color: #1C6E8C;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+} 
+
+.container-fluid-1 {
+    padding: 0% 8%;
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+    font-family: "ubuntu";    
+    font-size: 2rem;
+    font-weight: 900;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-family: "Montserrat"
+    font-weight: lighter;
+    font-size: 1.2rem;
+}
+
+.aarushImage {
+    width: 20%;
+    margin-right: 2%;
+    float: left;
+}
+
+.center {
+    text-align: center;
+    width: 100%;
+}
